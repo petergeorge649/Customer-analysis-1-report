@@ -1,8 +1,25 @@
 # Customer-analysis-report
 
+![alt text](https://github.com/petergeorge649/Customer-analysis-EDA/blob/main/png/37075125.jpg)
+
+## **Contents**
+
+**[Customer analysis 1](#customer-analysis-1)**
+
+**[Customer analysis 2](#customer-analysis-2)**
+
+**[Customer analysis 3](#customer-analysis-3)**
+
+**[Customer analysis 4](#customer-analysis-4)**
+
+## Project Otuline
+
+![alt text](https://github.com/petergeorge649/Customer-analysis-EDA/blob/main/png/work.png)
+
 # Customer analysis 1
 
 Remember the process:
+
 Case Study
 
 Get data
@@ -47,6 +64,7 @@ Check for duplicate rows in the data and remove if any.
 Filter out the data for customers who have an income of 0 or less.
 
 # Customer analysis 2
+
 For this lab, we will be using the marketing_customer_analysis.csv file that you can find in the files_for_lab folder. Check out the files_for_lab/about.md to get more information if you are using the Online Excel.
 
 Note: For the next labs we will be using the same data file. Please save the code, so that you can re-use it later in the labs following this lab.
@@ -89,6 +107,7 @@ Show a plot of the response rate by the total claim amount.
 Show a plot of the response rate by income.
 
 # Customer analysis 4
+
 In today's lesson we talked about continuous distributions (mainly normal distribution), linear regression and how multicollinearity can impact the model. In this lab, we will test your knowledge on those things using the marketing_customer_analysis.csv file. You have been using the same data in the previous labs (round 2 and 3). You can continue using the same jupyter file. The file can be found in the files_for_lab folder.
 
 Get the data
