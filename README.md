@@ -1,4 +1,6 @@
-# Customer-analysis-1-report
+# Customer-analysis-report
+
+# Customer analysis 1
 
 Remember the process:
 Case Study
@@ -43,3 +45,7 @@ Delete the column education and the number of open complaints from the dataframe
 Correct the values in the column customer lifetime value. They are given as a percent, so multiply them by 100 and change dtype to numerical type.
 Check for duplicate rows in the data and remove if any.
 Filter out the data for customers who have an income of 0 or less.
+
+# Customer analysis 2
+# Customer analysis 3
+# Customer analysis 4
