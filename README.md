@@ -1,13 +1,20 @@
 # Customer-analysis-1-report
-Lab | Customer Analysis Round 1
+
 Remember the process:
 Case Study
+
 Get data
+
 Cleaning/Wrangling/EDA
+
 Processing Data
+
 Modeling
+
 Validation
+
 Reporting
+
 Abstract
 The objective of this data is to understand customer demographics and buying behavior. Later during the week, we will use predictive analytics to analyze the most profitable customers and how they interact. After that, we will take targeted actions to increase profitable customer response, retention, and growth.
 
