@@ -1,6 +1,6 @@
 # Customer-analysis-report
 
-![alt text](https://github.com/petergeorge649/Customer-analysis-EDA/blob/main/png/37075125.jpg)
+![alt text](https://github.com/petergeorge649/Customer-analysis-EDA/blob/main/png/analysis-customer-experience-france-belgium-europe-1.jpeg)
 
 ## **Contents**
 
