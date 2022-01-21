@@ -6,7 +6,7 @@ Image source: IntoTheMinds
 
 ## **Contents**
  
-**[Project Otuline](project-otuline)**
+**[Project Outline](project-outline)**
 
 **[Customer analysis 1](#customer-analysis-1)**
 
