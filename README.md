@@ -16,7 +16,7 @@ Image source: IntoTheMinds
 
 **[Customer analysis 4](#customer-analysis-4)**
 
-## Project Otuline
+## Project Outline
 
 ![alt text](https://github.com/petergeorge649/Customer-analysis-EDA/blob/main/png/work.png)
 
